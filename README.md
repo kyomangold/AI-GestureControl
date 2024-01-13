@@ -1,6 +1,6 @@
 # AI Hand-Gesture Controlled Cursor with OAK-D Lite
 
-This system integrates advanced AI capabilities to allow users to control their computer cursor through hand and gesture tracking, leveraging Google's MediaPipe and the OAK-D Lite camera's on-board processing.
+This system integrates advanced AI capabilities, including a machine learning algorithm running on-device, to allow users to control their computer cursor through hand and gesture tracking, leveraging Google's MediaPipe and the OAK-D Lite camera's processing.
 
 ## Features
 
