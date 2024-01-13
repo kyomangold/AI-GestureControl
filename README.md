@@ -62,3 +62,4 @@ This project was inspired by the [depthai_hand_tracker](https://github.com/geaxg
 This system is a demonstration of AI and computer vision capabilities with the OAK-D Lite camera. It is not intended for critical use cases. Use at your own discretion and risk.
 
 
+# AI-GestureControl
